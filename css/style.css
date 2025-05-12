@@ -78,3 +78,29 @@ a:hover{
     border: 2px solid red;
     color: red !important;
 }
+img{
+    height: auto;
+    width: 100%;
+}
+.skills{
+    color: rgb(143, 0, 0);
+    font-family: "Gravitas One", serif;
+    font-size: 5rem;
+}
+.skill{
+    background-color: black;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 100vh;
+    border: rgb(255, 121, 121) solid;
+}
+.skill img{
+    width: 75%;
+}
+.skill-stuff{
+
+}
+p{
+    font-size: ;
+}
