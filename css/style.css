@@ -11,7 +11,7 @@
 }
 
 .hero {
-    background-image: url(/img/Hero.jpg);
+    background-image: url(../img/Hero.jpg);
     font-weight: 500;
     color: black;
     text-align: center;
@@ -46,7 +46,7 @@
 }
 
 .water {
-    background-image: url(/img/pink.jpg);
+    background-image: url(../img/pink.jpg);
     font-weight: 500;
     color: rgb(255, 255, 255);
     text-align: center;
@@ -143,7 +143,7 @@ p {
 }
 
 .facts {
-    background-image: url(/img/battle.jpg);
+    background-image: url(../img/battle.jpg);
     
     font-weight: 500;
     color: rgb(255, 255, 255);
